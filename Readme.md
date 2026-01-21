@@ -15,7 +15,7 @@
 ссылка: https://market.yandex.ru/card/wi-fi-router-asus-tuf-ax3000/102185153528?do-waremd5=7npM428Uho3utwZNWNfCRQ&clid=1601&utm_source=yandex&utm_medium=search&utm_campaign=ymp_offer_dp_komputer_model_mrkscr_top_bko_dyb_search_rus&utm_content=cid%3A115707839%7Cgid%3A5565835793%7Caid%3A1873011495206387942%7Cph%3A205565835793%7Cpt%3Apremium%7Cpn%3A1%7Csrc%3Anone%7Cst%3Asearch%7Crid%3A205565835793%7Ccgcid%3A0&yclid=4155581651849576447&ogV=-11
 
 ## Сборка компонентов
-Все было собрано в эмуляторе, вот ссылка на сборку blob:https://wokwi.com/9c506c15-fb48-4520-9107-7811535f2114
+Все было собрано в эмуляторе, вот ссылка на сборку https://wokwi.com/projects/453758447609091073
 
 ## Управление реле
 Управление осущевствляестся из телеграмм бота, сам код для реле был написан на mini python, код представлен в файле Rele.txt.
