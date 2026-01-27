@@ -10,7 +10,6 @@
 * Модуль измерения температуры(термостат) MAX31865 для высокоточного датчика PT100 UART (или любой другой модуль измеряющий температуру).
 ссылка: https://www.ozon.ru/product/modul-izmereniya-temperatury-termostat-max31865-dlya-vysokotochnogo-datchika-pt100-uart-1087431024/
 * Ворота с механизмом открытия.
-ссылка: https://spb.vorota-group.ru/vorota-otkatnye/avtomaticheskie/avtomaticheskie-otkatnye-vorota-alutech-korichnevye-1750kh2000-iz-profnastila/
 * Wi-Fi роутер (или можно купить модуь, который имеет выход в интернэт по сим-карте).
 ссылка: https://market.yandex.ru/card/wi-fi-router-asus-tuf-ax3000/102185153528?do-waremd5=7npM428Uho3utwZNWNfCRQ&clid=1601&utm_source=yandex&utm_medium=search&utm_campaign=ymp_offer_dp_komputer_model_mrkscr_top_bko_dyb_search_rus&utm_content=cid%3A115707839%7Cgid%3A5565835793%7Caid%3A1873011495206387942%7Cph%3A205565835793%7Cpt%3Apremium%7Cpn%3A1%7Csrc%3Anone%7Cst%3Asearch%7Crid%3A205565835793%7Ccgcid%3A0&yclid=4155581651849576447&ogV=-11
 
@@ -24,7 +23,7 @@
 Бот отвечает на такие команды как /temp - отправляет в чат температуру отображаемую на термостате, /open - открывает ворота, /reset - сбрасывает все настройки , /close - закрывает ворота , /help - помогает с управлением, подробнее описывает команды . 
 
 
-![Иллюстррация связей](https://github.com/zxfbsvzfvx)
+![Иллюстррация связей](https://github.com/zxfbsvzfvx/Bot-gates-/raw/)
 
 
 
